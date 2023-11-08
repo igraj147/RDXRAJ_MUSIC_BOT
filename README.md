@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/733729bdd107bcb66159f.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy PrincessV2.0 </b>
+  <b> rdx_raj(God)👀 </b>
 </h1>
 
 
@@ -126,7 +126,7 @@ python3 bot.py
 
 
 ## Thanks to 
- - 🦋 Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤️.
+ - 🦋 Thank you [rdx_raj(God)👀](https://t.me/THE_CRAZY_FUN_0) for helping us in this journey ❤️.
  - 🔺 From the side of [LazyDeveloper](https://github.com/LazyDeveloperr) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
  - 🔺 Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram).
  - 🔺 Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot).
@@ -135,7 +135,7 @@ python3 bot.py
 
 ### Note
 
-[Join Developer Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper
+[Join Developer Channel](https://t.me/THE_CRAZY_FUN_0): THE CRAZY FUN
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
