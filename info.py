@@ -82,10 +82,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/real_MoviesAdda1"
+DOWNLOAD_TEXT_URL = "https://t.me/rdxraj_movie_update"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Get Updates"
-CAPTION_BUTTON_URL = "https://t.me/real_MoviesAdda1"
+CAPTION_BUTTON_URL = "https://t.me/rdxraj_movie_update"
 
    # Auto Delete For Bot Sending Files #
