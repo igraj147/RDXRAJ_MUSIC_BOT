@@ -11,10 +11,10 @@ def is_enabled(value, default):
         return default
 
 # Bot information
-SESSION = environ.get('SESSION', 'LazyPrincess')
-API_ID = int(environ.get('API_ID', '13323016'))
-API_HASH = environ.get('API_HASH', '68e791e616100248b0a53ae86a661a12')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+SESSION = environ.get('SESSION', 'rdxraj')
+API_ID = int(environ.get('API_ID', '26421919'))
+API_HASH = environ.get('API_HASH', '3911f3927de69841858b6f84e770875b')
+BOT_TOKEN = environ.get('BOT_TOKEN', "6826535275:AAFHKWjI4Y4ups2DdOOcLVvCSMtmMt9ThjY")
 
 #Port
 PORT = environ.get("PORT", "8080")
@@ -25,9 +25,9 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 PICS = (environ.get('PICS', 'https://i.ibb.co/KDbCjKB/Picsart-23-10-26-17-29-04-052-01.jpg')).split()
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1484670284').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001620891165').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1484670284').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6196671471').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001511567523').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '6196671471').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('AUTH_CHANNEL', '-1001765107260')
 auth_grp = environ.get('AUTH_GROUP')
